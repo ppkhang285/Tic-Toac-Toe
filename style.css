@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin :0;
+}
+canvas{
+    background: #eeeeee;
+    display: block;
+    border: #000000 solid;
+    margin: 0 auto;
+    position: fixed;
+    top: 50px;
+    left: 500px;
+}
+#canvas2{
+    background: #eeeeee;
+    display: block;
+    border: #000000 solid;
+    margin: 0 auto;
+    position: fixed;
+    top: 50px;
+    right:  80px;
+}
+#reload{
+    border: solid gray;
+    cursor: pointer;
+    position: fixed;
+    top: 60px;
+    left: 300px;
+    width: 100px;
+    height: 50px;
+}
